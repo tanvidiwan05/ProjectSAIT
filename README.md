@@ -1,7 +1,7 @@
 the whole project is in the file finalprojectsait which contains html,css code alongwith images required.
 We have created a website for electronic gadgets. 
 following files contain code for respective pages:
-loginpage-loginpage code
+index-loginpage code
 style- css code for login page
 prodpage- main product page code
 styles- css for main product page
